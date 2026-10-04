@@ -6,7 +6,7 @@
 
 - **MHV:** 2A202602922
 - **Họ và tên:** Trần Đức Quân
-- **Tên nhóm:** [Điền tên nhóm]
+- **Tên nhóm:** Hicarus
 - **Case AI đã chọn:** Case A — AI Tutor: Diagnostic Refresher
 
 ### Thành viên
