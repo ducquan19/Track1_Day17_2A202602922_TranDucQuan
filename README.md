@@ -81,14 +81,16 @@ Không hỏi về AI Tutor, nút “Tôi vẫn chưa hiểu”, hay ý định s
 
 ## 4. Practice Reflection — tự phản chiếu
 
-> Phần này cần được chính interviewer hoàn thiện sau khi nghe lại recording; không dùng AI để viết thay reflection.
+1. Lỗi/cách hỏi nào của tôi làm câu chuyện bị dẫn dắt, quá chung chung hoặc bị ngắt mạch?
+> Tôi nhận ra một số câu hỏi của mình vẫn hơi theo dạng checklist, nên đôi lúc làm người được phỏng vấn chuyển sang trả lời ngắn theo từng ý thay vì kể lại toàn bộ câu chuyện. Ví dụ, khi hỏi “Bạn đã thử bao nhiêu cách?” hoặc “Cách nào hiệu quả nhất?”, tôi đã vô tình hướng họ về việc đánh giá các cách giải quyết thay vì để họ tự kể quá trình. Ngoài ra, tôi có xu hướng hỏi tiếp khá nhanh khi người được phỏng vấn vừa nói xong một ý. Lẽ ra tôi nên để họ có thêm thời gian nhớ lại và kể thêm chi tiết. Tôi cũng có thể hỏi sâu hơn ngay tại thời điểm họ nói “mình không biết chính xác mình không hiểu chỗ nào”, vì đây là một chi tiết khá quan trọng nhưng tôi chưa khai thác ngay.
 
-1. **Lỗi/cách hỏi nào của tôi làm câu chuyện bị dẫn dắt, quá chung chung hoặc bị ngắt mạch?**
-   [Điền sau khi nghe lại recording]
-2. **Evidence nào tôi bỏ lỡ hoặc chưa đào sâu (situation, hành vi, workaround, hậu quả, quote)? Tôi sẽ hỏi lại thế nào?**
-   [Điền sau khi nghe lại recording]
-3. **Tôi sẽ sửa gì trong Guide v2 cho lượt fieldwork thật?**
-   [Điền sau khi nghe lại recording]
+2. Evidence nào tôi bỏ lỡ hoặc chưa đào sâu? Tôi sẽ hỏi lại thế nào?
+
+> Tôi đã có được khá rõ situation, workaround và thời gian, nhưng chưa đào sâu đủ về hậu quả thực tế và cách người dùng xác định rằng họ đã giải quyết được vấn đề. Tôi mới biết người dùng mất khoảng 30–45 phút và cuối cùng làm được một bài tương tự, nhưng chưa hỏi xem việc bị kẹt đó có ảnh hưởng đến deadline, tiến độ học hay kết quả bài tập như thế nào. Tôi cũng muốn đào sâu hơn vào việc người dùng không biết chính xác mình đang thiếu kiến thức nào, vì đây có vẻ là một pain point đáng chú ý. Nếu hỏi lại, tôi sẽ hỏi: “Lúc đó việc mất 30–45 phút có ảnh hưởng gì đến việc học hoặc deadline của bạn không?” “Có lúc nào bạn tưởng là mình đã hiểu nhưng sau đó gặp bài khác lại không làm được không?” “Bạn dựa vào đâu để biết là mình thực sự hiểu rồi?” “Khi bạn nói không biết mình không hiểu ở đâu, bạn thường làm gì tiếp theo?”
+
+3. Tôi sẽ sửa gì trong Guide v2 cho lượt fieldwork thật?
+
+> Tôi sẽ giảm số lượng câu hỏi cố định và chuyển Guide thành các chủ đề cần đào sâu, để người được phỏng vấn có thể kể câu chuyện tự nhiên hơn. Tôi sẽ bắt đầu bằng một câu hỏi mở về lần gần nhất họ gặp vấn đề khi học, sau đó chỉ dùng follow-up khi cần. Tôi cũng sẽ ưu tiên các câu hỏi về hành vi đã xảy ra thay vì hỏi ý kiến hoặc giả định về một giải pháp. Khi người dùng nói ra một chi tiết bất ngờ, tôi sẽ dừng lại và đào sâu thay vì cố đi tiếp theo thứ tự câu hỏi. Cuối cùng, tôi sẽ bổ sung một bước kiểm tra ở cuối mỗi câu chuyện: “Bạn biết mình đã giải quyết được bằng cách nào?” để phân biệt giữa việc người học chỉ hoàn thành được một bài cụ thể và việc họ thực sự hiểu vấn đề.
 
 ## 5. AI Support Log
 
