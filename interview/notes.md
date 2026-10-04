@@ -2,6 +2,7 @@
 
 - **Họ và tên người tham gia:** Đặng Văn Thái Anh
 - **Mã học viên người tham gia:** 2A202602407
+- **Đúng tiêu chí tuyển:** Có
 
 
 | **Điều cần giữ lại**                                   | **Ghi chép**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
